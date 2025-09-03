@@ -87,6 +87,9 @@ python main.py send-budget
 
 ✅ Sends the current budget balance via email.
 
+🎥 Project Presentation
+https://screenapp.io/app/#/shared/TJr9lFD8LE
+
 🛠️ Tech Stack
 
 Python 3.8+
